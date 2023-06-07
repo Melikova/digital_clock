@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #fff;
+    font-family: lato,sans-serif;
+    color: #bdc3c7;
+}
+
+.wrapper {
+    width: 400px;
+    margin: 10% auto;
+}
+
+.content {
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    width: 400px;
+}
+
+.time {
+    color: #bdc3c7;
+    font-weight: 300;
+    font-size: 1.5em;
+    padding: 20px;
+}
+
+
+.time {
+    font-size: 3em;
+}
